@@ -22,7 +22,8 @@ A simple client-server chat application using **C++**, **Winsock2**, and **multi
 ```
 
 ## 📸 Preview
-![Console Chat](https://img.icons8.com/external-flat-icons-pause-08/64/000000/external-chat-digital-marketing-flat-icons-pause-08.png)
+![image](https://github.com/user-attachments/assets/10e4e6f4-986c-429c-b7bf-b871345f1d53)
+
 
 ## 📜 Commands
 - `#exit` → Disconnect from the chat
